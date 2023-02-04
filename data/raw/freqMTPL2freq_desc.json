@@ -1,0 +1,24 @@
+{
+    "data_set_description": {
+        "id": "41214",
+        "name": "freMTPL2freq",
+        "version": "1",
+        "description": "The dataset freMTPL2freq contains risk features for 677,991 motor third-part liability policies (observed mostly on one year).",
+        "description_version": "1",
+        "format": "ARFF",
+        "upload_date": "2018-11-05T23:20:37",
+        "licence": "CC0",
+        "url": "https:\/\/api.openml.org\/data\/v1\/download\/20649148\/freMTPL2freq.arff",
+        "parquet_url": "http:\/\/openml1.win.tue.nl\/dataset41214\/dataset_41214.pq",
+        "file_id": "20649148",
+        "version_label": "1",
+        "citation": "C. Dutang and A. Charpentier (2018), CASdatasets: Insurance\n  datasets.",
+        "tag": "freMTPL2freq",
+        "visibility": "public",
+        "original_data_url": "http:\/\/dutangc.free.fr\/pub\/RRepos\/web\/CASdatasets-index.html",
+        "minio_url": "http:\/\/openml1.win.tue.nl\/dataset41214\/dataset_41214.pq",
+        "status": "active",
+        "processing_date": "2021-04-28 14:52:24",
+        "md5_checksum": "f8875568bf0ca622929105197e2db613"
+    }
+}

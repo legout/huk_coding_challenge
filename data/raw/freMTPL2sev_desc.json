@@ -1,0 +1,24 @@
+{
+    "data_set_description": {
+        "id": "41215",
+        "name": "freMTPL2sev",
+        "version": "1",
+        "description": "The dataset freMTPL2sev contains claim amounts for 26,639 motor third-part liability policies.",
+        "description_version": "1",
+        "format": "ARFF",
+        "upload_date": "2018-11-05T23:24:08",
+        "licence": "CC0",
+        "url": "https:\/\/api.openml.org\/data\/v1\/download\/20649149\/freMTPL2sev.arff",
+        "parquet_url": "http:\/\/openml1.win.tue.nl\/dataset41215\/dataset_41215.pq",
+        "file_id": "20649149",
+        "version_label": "1",
+        "citation": "C. Dutang and A. Charpentier (2018), CASdatasets: Insurance\n  datasets.",
+        "tag": "freMTPL2sev",
+        "visibility": "public",
+        "original_data_url": "http:\/\/dutangc.free.fr\/pub\/RRepos\/web\/CASdatasets-index.html",
+        "minio_url": "http:\/\/openml1.win.tue.nl\/dataset41215\/dataset_41215.pq",
+        "status": "active",
+        "processing_date": "2021-04-28 14:52:04",
+        "md5_checksum": "24cc74449e3931cb1aad0d43a12e7a6e"
+    }
+}
